@@ -163,6 +163,7 @@ h2{
 /* main section */
 .page-main-content{
     position: relative;
+    overflow: hidden;
 }
 /* fixed section */
 .menu-icon{
