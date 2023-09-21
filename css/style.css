@@ -1000,14 +1000,15 @@ section div[class="rectangle-allert"] p {
         margin: 0 2%;
     }
     .page-content{
-        width: 100%;
+        width: 99%;
         margin-left: 0;
+        padding-left: 5px;
     }
     .padding-every-section{
         padding: 0 0 0 2%;
     }
     .frist-section{
-        width: 100%;
+        width: 103%;
         margin-left: 0;
         text-align: center;
     }
@@ -1041,6 +1042,7 @@ section div[class="rectangle-allert"] p {
     .square-services-section , .square456-services-section{
         flex-direction: column;
         gap: 90px;
+        width: 105%;
     }
     .square456-services-section{
         margin-top: 90px;
@@ -1048,16 +1050,21 @@ section div[class="rectangle-allert"] p {
     .first-square-services , .second-square-services , .third-square-services{
         width: 98%;
     }
+    
     .fixed-image{
-        width: 100%;
+        width: 101%;
         margin-left: 0;
         padding-top: 90px;
     }
     .skills-section{
         width: 85%;
     }
+    .bars{
+        width: 110%;
+    }
     .education-section{
         margin-top: 130px;
+        width: 107%;
     }
     .section-experience {
         margin-top: -70px;
