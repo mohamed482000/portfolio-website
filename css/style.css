@@ -1032,7 +1032,7 @@ section div[class="rectangle-allert"] p {
     }
     .rectangle-allert{
         padding: 10px 6%;
-        height: 260px;
+        height: 280px;
         margin-top: 900px;
         width: 98%;
     }
@@ -1068,16 +1068,18 @@ section div[class="rectangle-allert"] p {
     }
     .section-experience {
         margin-top: -70px;
+        width: 105%;
     }
     .section-work{
         margin-top: -70px;
-        width: 95%;
+        width: 100%;
     }
     .section-work-images div{
         width: 100%;
     }
     .blog{
         padding-right: 20px;
+        width: 103%;
     }
     .blog-items{
         flex-direction: column;
@@ -1100,6 +1102,6 @@ section div[class="rectangle-allert"] p {
 }
 @media screen and (max-width:520px){
     .section-work-ul li {
-        font-size: 15px;
+        font-size: 14px;
     }
 }
